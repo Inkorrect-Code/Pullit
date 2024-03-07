@@ -1,6 +1,6 @@
 # Pullit
 
-A Reddit clone developed using React, Node.js, Typescript, and PostgreSQL. Users can sign up, login, and create posts/topics, as well as comment on others. Posts and comments, in classic Reddit fashion, can be upvoted or downvoted. In addition, numerous moderation tools have been implemented, allowing users to interact with communities or customize topics with custom banners/icons! Read more below:
+Pullit is a Reddit clone developed using React, Node.js, Typescript, and PostgreSQL. Users can sign up, login, and create posts/topics, as well as comment on others. Posts and comments, in classic Reddit fashion, can be upvoted or downvoted. In addition, numerous moderation tools have been implemented, allowing users to interact with communities or customize topics with custom banners/icons! Read more below:
 
 You can mess with the live build of this app [here](https://www.pullit.meme/)
 
